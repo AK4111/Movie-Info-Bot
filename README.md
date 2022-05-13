@@ -7,7 +7,7 @@ Simple Telegram Bot To Get Info About Movies Using OMDb.
 ## Deploy in your VPS
 
 ```sh
-git clone https://github.com/Arun-TG/OMDb-Bot
+git clone https://github.com/AK4111/Movie-Info-Bot
 cd OMDb-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
